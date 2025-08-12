@@ -57,4 +57,5 @@ The Python script automates the entire ETL process:
 
 ## Summary
 This project demonstrates the core principles of building an ETL pipeline using Python, Google Sheets, and Google BigQuery.  
+
 The process ensures that raw customer shopping data can be collected, cleaned, and made available for analysis in a structured and automated way.
